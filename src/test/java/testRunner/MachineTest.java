@@ -1,15 +1,10 @@
 package testRunner;
 
 import org.junit.Test;
-import com.collinson.qa.exceptions.NotSufficientChangeException;
-import com.collinson.qa.exceptions.SoldOutException;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
-import org.junit.Ignore;
-import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.function.Executable;
 import vendingmachine.*;
 
 import java.util.List;
